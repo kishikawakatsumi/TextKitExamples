@@ -1,0 +1,10 @@
+Finding and Catching wild Pokémon
+Finding wild Pokémon
+Your device will vibrate to alert you when a wild Pokémon is nearby. If you don’t see any Pokémon nearby, take a walk! Pokémon love places like parks, so try visiting a local recreational area. You can attract more Pokémon to your location by using an item known as Incense.
+To catch a Pokémon:
+-	When a wild Pokémon is nearby, your device will vibrate, and the Pokémon will appear on the map. Touch the Pokémon to begin your attempt to catch it.
+-	The Pokémon will appear in front of you.
+	Note: You may need to orient your device or switch out of camera mode.
+-	Touch and hold your Poké Ball.
+-	You have the greatest chance of capturing the Pokémon while the colored ring is at its smallest diameter. At the opportune moment, fling the Poké Ball toward the Pokémon.
+Tip: Drag and rapidly spin the Poké Ball in a circular motion before you release it for a chance to receive a curveball bonus.
